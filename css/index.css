@@ -45,9 +45,26 @@ body {
     letter-spacing: 0.15rem;
     text-transform: uppercase;
 }
-.navbar .navbar-title {
+.navbar-title {
     margin-right: 1rem;
 }
-.navbar .navbar-links > *:not(:first-child) {
+.navbar-links > *:not(:first-child) {
     margin-left: 0.6rem;
+}
+
+.navbar-links a {
+    text-decoration: none;
+    color: #000;
+
+    transition: text-decoration 0.3s;
+}
+
+/* Style the links when hovered */
+.navbar-links a:hover a:active{
+    text-decoration: underline;
+}
+
+/* Style the links when clicked */
+.navbar-links a:active {
+    text-decoration: underline; /* Underline when clicked */
 }
