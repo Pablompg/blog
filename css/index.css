@@ -55,16 +55,18 @@ body {
 .navbar-links a {
     text-decoration: none;
     color: #000;
-
-    transition: text-decoration 0.3s;
+    text-underline-offset: 1.2em;
+    text-decoration: underline transparent;
 }
 
 /* Style the links when hovered */
-.navbar-links a:hover a:active{
-    text-decoration: underline;
+.navbar-links a:hover {
+    text-decoration: underline lightgray;
+    transition: none;
 }
 
 /* Style the links when clicked */
 .navbar-links a:active {
-    text-decoration: underline; /* Underline when clicked */
+    text-decoration: underline;
+    text-underline-offset: 1.2em;
 }
