@@ -1,7 +1,6 @@
 baseURL = 'https://blog.pablompg.com'
 languageCode = 'en-us'
 title = 'Learning Hugo'
-theme = 'PaperMod'
 
 [[menu.main]]
 identifier = "categories"
