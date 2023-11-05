@@ -1,6 +1,6 @@
 ---
-title: "Lecture 9"
-date: 2022-02-01T09:39:28-07:00
+title: "Math blog examples"
+date: 2023-11-05
 katex: true
 ---
 

@@ -14,13 +14,5 @@
     {{ end }}
   </ul>
   {{ end }}
-  <h2>Other</h2>
-  <ul>
-    {{ range .RegularPages }}
-      <li>
-        <a href="{{ .RelPermalink }}">{{ or .Title .RelPermalink }}</a>
-      </li>
-    {{ end }}
-  </ul>
 </article>
 {{ end }}

@@ -1,3 +1,3 @@
 ---
-title: Electrical and Computer Engineering 240
+title: Pablompg's Blog
 ---

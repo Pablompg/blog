@@ -1,6 +1,7 @@
 baseURL = 'https://blog.pablompg.com'
 languageCode = 'en-us'
 title = 'Learning Hugo'
+pluralizelisttitles = false
 
 [[menu.main]]
 identifier = "categories"
