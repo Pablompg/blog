@@ -1,15 +1,12 @@
 {{ define "page" }}
 <article class="container">
-  {{ if ne .Kind "home" }}
-  <a href="{{ .Site.Home.RelPermalink }}">Home</a>
-  {{ end }}
   <h1>{{ .Title }}</h1>
   {{ range .Sections }}
-  <h2><a href="{{ .RelPermalink }}">{{ .Title }}</a></h2>
+  <h2>{{ .Title }}</h2>
   <ul>
     {{ range .Pages }}
       <li>
-        <a href="{{ .RelPermalink }}">{{ or .Title .RelPermalink }}</a>
+        <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
   </ul>
