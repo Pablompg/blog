@@ -2,6 +2,7 @@
 title: "Math blog examples"
 date: 2023-11-05
 katex: true
+draft: false
 ---
 
 `sumto()` function: \\(\sum_1^i i\\)
