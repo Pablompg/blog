@@ -1,3 +1,0 @@
----
-title: Pablompg's Blog
----

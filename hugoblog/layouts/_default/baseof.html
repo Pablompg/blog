@@ -9,6 +9,17 @@
     {{ if .Params.katex }}{{ partial "katex.html" . }}{{ end }}
   </head>
   <body>
-    {{ block "page" . }}{{ end }}
+    <div class="container">
+      <header>
+        <div class = "navbar">
+          <div class="navbar-title">Pablompg.com</div>
+          <div class="navbar-links">
+            <a href="{{ "/" | relLangURL }}">Blog</a>
+            <a href="{{ "/about/" | relLangURL }}">About</a>
+          </div>
+        </div>
+      </header>
+     {{ block "page" . }}{{ end }}
+    </div>
   </body>
 </html>
