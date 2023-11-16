@@ -1,3 +1,5 @@
+This is a site built using Hugo.
+
 # How do I start an hugo site?
 
 hugo new site <name-site>
