@@ -4,17 +4,17 @@
   <img src="/images/aqueduct-python.png" alt="Italian Trulli">
 
   <div class="about__description">
-    Desde Segovia. Con mucho amor por las serpientes amarillas y azules ;)
+    Desde Segovia. Apasionado de la serpiente azul y amarilla.
+    Aquí encontrarás un poco de todo: reflexiones, programación, economía, matemáticas ... 
   </div>
 </div>
 
 <article class="container">
-  {{/* <h1>{{ .Title }}</h1> */}}
   {{ range .Sections }}
-  <h2>{{ .Title }}</h2>
+  <h2 class="section__title">{{ .Title }}</h2>
   <ul>
     {{ range .Pages }}
-      <li>
+      <li class="section__elements">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
     {{ end }}
