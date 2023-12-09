@@ -82,6 +82,24 @@ body {
     margin-top: 3rem;
     font-size: 1.3rem;
   }
+
+  &__line {
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+  }
+
+  &__socialmedia {
+    img {
+      width: 3rem;
+      height: 3rem;
+      margin-left: 2rem;
+      margin-right: 2rem;
+    }
+    a {
+      text-decoration: none;
+    }
+  }
+  
 }
 
 .section {
