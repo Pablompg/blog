@@ -26,6 +26,12 @@ body {
   max-width: 55rem;
   padding: 2rem 1.5rem;
   margin: 0 auto;
+  font-family: Inter;
+  line-height: 1.6rem;
+  h1 {
+    line-height: 1.8rem;
+    margin-bottom: 2.2rem;
+  }
 }
 
 .navbar {
