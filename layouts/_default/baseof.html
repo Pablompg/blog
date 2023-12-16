@@ -15,8 +15,8 @@
         <div class = "navbar">
           <div class="navbar__title">Pablompg.com</div>
           <div class="navbar__links">
-            <a href="{{ "/" }}">Blog</a>
-            <a href="{{ "/about/"  }}">About</a>
+            <a href="{{ "/" }}" class="{{ if eq .RelPermalink "/" }}active-navbar-link{{ end }}">Blog</a>
+            <a href="{{ "/about/" }}" class="{{ if eq .RelPermalink "/about/" }}active-navbar-link{{ end }}">About</a>
           </div>
         </div>
       </header>
