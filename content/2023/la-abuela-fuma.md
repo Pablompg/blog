@@ -13,8 +13,6 @@ También me enorgullezco mucho de mis padres. Han trabajado y sacrificado todo p
 
 Como no quiero que se me olvide todo lo que mi abuela hizo y sacrificó por su familia (5 hijas, 4 nietos, 5 nietas), quería escribir mi primer blog recordándola. Dejo a continuación las preciosas palabras que escribió mi prima, que tampoco quiero olvidar:
 
-&NewLine;
-
 ```
 Hola abuela, has luchado muchas batallas en tu vida, ojalá también hubieras podido con esta.
 
