@@ -135,3 +135,7 @@ pre {
   white-space: pre-wrap;
   word-wrap: break-word;
 }
+
+p + pre {
+  margin-top: 2.5rem;
+}

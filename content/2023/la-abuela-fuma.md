@@ -5,11 +5,11 @@ katex: true
 draft: false
 ---
 
-El otro día se fue la abuela. Mujer de campo, trabajadora. Sin apenas saber erescribir, a base de mucho trabajo, sacó una familia de 5 hijas adelante.
+El otro día se fue la abuela. Mujer de campo, trabajadora. Sin apenas saber escribir, a base de mucho trabajo, sacó una familia de 5 hijas adelante.
 
 Hablo de mi abuela con orgullo porque tuvo una vida muchísimo más difícil que la mía. Nada la hacía más feliz que ver a sus nietos acabar el bachillerato. Había que estudiar, nos lo recordaba cada poco. Siempre quiso que el resto tuviera las oportunidades que ella no.
 
-También me enorgullezco mucho de mis padres. Han trabajado y sacrificado todo por mi hermano y por mí, pero eso da para otro artículo.
+También me enorgullezco mucho de mis padres. Han trabajado y sacrificado todo por mi hermano y por mí, pero eso es para otro día.
 
 Como no quiero que se me olvide todo lo que mi abuela hizo y sacrificó por su familia (5 hijas, 4 nietos, 5 nietas), quería escribir mi primer blog recordándola. Dejo a continuación las preciosas palabras que escribió mi prima, que tampoco quiero olvidar:
 
