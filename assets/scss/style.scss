@@ -121,3 +121,11 @@ body {
     
   }
 }
+
+/*
+* TO NOT OVERFLOW IN MOBILE DISPLAYS WHEN USING CODE BLOCKS
+*/
+pre {
+  white-space: pre-wrap;
+  word-wrap: break-word;
+}
