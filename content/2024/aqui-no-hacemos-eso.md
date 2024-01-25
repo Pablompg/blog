@@ -1,5 +1,5 @@
 ---
-title: "We don't do that here"
+title: "We don't do that here. Cervantes over Shakespeare"
 date: 2024-01-24
 katex: true
 draft: false
@@ -13,4 +13,4 @@ El stack para el blog me lo dio a conocer @josemmo: `hugo`. Te instalas _git_, _
 
 Siempre se me pasan cosas por la cabeza para escribir, y tengo algunas anecdotas que quiero dejar por escrito, así que espero escribir algo todos los meses.
 
-If you have made it this far, be aware I am not planning to write any blog in English. We don't do that here. Cervantes over Shakespeare. Everyone writes en English these days, and some Spanish content won't hurt. Anyway, if you want me to write in English, feel free to let me know. This blog was about me bragging on how I am not using `js` for this site, and how proud I am about it.
+If you have made it this far, be aware I am not planning to write any blog in English. We don't do that here. Cervantes over Shakespeare. Everyone writes in English these days, and some Spanish content won't hurt. Anyway, if you want me to write in English, feel free to let me know. This blog was about me bragging on how I am not using `js` for this site, and how proud I am about it.
