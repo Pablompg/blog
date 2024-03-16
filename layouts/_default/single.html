@@ -1,6 +1,7 @@
 {{ define "page" }}
 <article class="container">
   <h1>{{ .Title }}</h1>
+  <p><strong>Fecha:</strong> {{ .Date.Format "02 01 2006" }}</p>
   {{ .Content }}
 </article>
 {{ end }}

@@ -1,7 +1,7 @@
 ---
 title: "We don't do that here. Cervantes over Shakespeare"
 date: 2024-01-24
-katex: true
+katex: false
 draft: false
 ---
 

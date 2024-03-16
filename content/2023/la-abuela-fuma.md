@@ -1,6 +1,6 @@
 ---
 title: "La abuela fuma, la abuela bebe, la abuela hace lo que quiere"
-date: 2023-12-015
+date: 2023-12-15
 katex: true
 draft: false
 ---
