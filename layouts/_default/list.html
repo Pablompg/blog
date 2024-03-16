@@ -13,7 +13,7 @@
   {{ range .Sections }}
   <h2 class="section__title">{{ .Title }}</h2>
   <ul>
-    {{ range .Pages }}
+    {{ range sort .Pages "File.BaseFileName" "desc" }}
       <li class="section__elements">
         <a href="{{ .RelPermalink }}">{{ .Title }}</a>
       </li>
