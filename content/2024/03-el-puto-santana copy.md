@@ -16,3 +16,5 @@ Otro tema es el humor. Las buenas charlas tienen que tener un toque de humor. Pa
 Además ocurre algo que a mí me gusta mucho, y es que cuando dominas un tema, lo puedes simplificar. Ninguno de los dos contó nada disruptivo. Son temas complejos, que han conseguido simplificar y hacer accesibles separando lo esencial de los detalles. Te cuenta Santana sus 5 reglas de trabajo con datos y la verdad que son bastante evidentes. Te explica Josemi cosas como que si programas mods de minecraft, los programes en un hilo alternativo al main thread, que de lo contrario el juego va a ir lento. Son cosas que entiendes, tienen sentido.
 
 Por último, algo que ambos comparten es la humildad. Ambos son unos cracks en lo suyo, pero son cercanos. Santana será millonario, pero te viste como uno más, vaquero y camiseta negra. Es de los tuyos. Josemmi es un genio, pero te tomas una cerveza con él y te critica el bus de Avanza igual que lo haces tú. Es de los tuyos.
+
+Resumiendo, que no creo en las fórmulas mágicas. El cariño es una manera cursi de decir constancia, y sí, también aplica al amor.
