@@ -22,3 +22,7 @@ Te vamos a echar mucho de menos, pero estarás con nosotros en cada recuerdo de 
 
 Nos queda la calma de saber que estás con el abuelo y que ayer le diste un abrazo por su cumpleaños. No cabe duda de que él también te echaba mucho en falta, y estamos convencidos de que nos vais a cuidar desde allí arriba. Esperamos que estéis igual de orgullosos de la familia que formasteis de lo que nosotros lo estamos de vosotros dos.
 ```
+
+<div style="text-align: center;">
+  <img src="/images/2023/la_abuela_fuma.jpg" alt="Foto de la familia (falta Laura) junto al árbol donde están esparcidos los restos de los abuelos Alfredo y Pili, que ya están juntos de nuevo" style="max-width: 100%; height: auto;">
+</div>

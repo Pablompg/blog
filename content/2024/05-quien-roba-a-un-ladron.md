@@ -15,11 +15,6 @@ Claro, esto tuvo muchas implicaciones en mi vida. Era adicto al dinero rápido y
 
 No tengo claro cuál es la moraleja de la historia, pero ese dinero no mereció la pena. Estaba envenenado. Solo pensaba en apuestas 24 horas al día. Hice varias cosas que rozaban la estafa. Fui el puto rey del mambo un par de meses, y un desgraciado un año y medio pagando las consecuencias. Nada sale gratis, todo es un *trade-off*, como en tecnología.
 
-
-<div style="text-align: center;">
-  <img src="/images/2024/apuestas.png" alt="ME">
-</div>
-
 <div style="text-align: center;">
   <img src="/images/2024/apuestas.png" alt="joven estudiante en su habitacion rodeado de libros de apuestas y papeles con calculos. Hay un mac encendido en la mesa" style="max-width: 100%; height: auto;">
 </div>
