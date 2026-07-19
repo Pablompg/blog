@@ -1,5 +1,5 @@
-baseURL = 'https://blog.pablompg.com'
-languageCode = 'en-us'
+baseURL = "https://blog.pablompg.com/"
+locale = 'en'
 pluralizelisttitles = false
 
 [markup]
