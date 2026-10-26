@@ -45,16 +45,8 @@ jobs:
           echo "${RUNNER_TEMP}/dart-sass" >> "${GITHUB_PATH}"
           sass --version
 
-      - name: Configure GitHub Pages
-        id: pages
-        uses: actions/configure-pages@v5
-
       - name: Build with Hugo
-        run: |
-          hugo \
-            --gc \
-            --minify \
-            --baseURL "${{ steps.pages.outputs.base_url }}/"
+        run: hugo --gc --minify
 
       - name: Upload artifact
         uses: actions/upload-pages-artifact@v4
