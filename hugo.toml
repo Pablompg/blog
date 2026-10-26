@@ -1,4 +1,4 @@
-baseURL = "https://blog.pablompg.com/"
+baseURL = "https://pablompg.com/"
 locale = 'en'
 pluralizelisttitles = false
 

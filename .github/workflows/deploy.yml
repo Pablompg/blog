@@ -43,6 +43,7 @@ jobs:
             -o "${RUNNER_TEMP}/dart-sass.tar.gz"
           tar -xzf "${RUNNER_TEMP}/dart-sass.tar.gz" -C "${RUNNER_TEMP}"
           echo "${RUNNER_TEMP}/dart-sass" >> "${GITHUB_PATH}"
+          export PATH="${RUNNER_TEMP}/dart-sass:${PATH}"
           sass --version
 
       - name: Build with Hugo
